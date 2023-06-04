@@ -11,7 +11,8 @@ This is a simple Todo app built with React Native. It allows you to create and m
 
 ## Screenshots
 
-![Screenshot](https://github.com/Durvesh7k/todo_app/assets/113430857/8d85e931-117c-45cb-847f-06434e7450c7)
+<img src="[https://github.com/favicon.ico](https://github.com/Durvesh7k/todo_app/assets/113430857/8d85e931-117c-45cb-847f-06434e7450c7)" width="48">
+
 
 ## Installation
 
