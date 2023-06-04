@@ -11,15 +11,16 @@ This is a simple Todo app built with React Native. It allows you to create and m
 
 ## Screenshots
 
-[Add screenshots of your app here to give users a visual representation of the app.]
+![Screenshot](https://github.com/Durvesh7k/todo_app/assets/113430857/8d85e931-117c-45cb-847f-06434e7450c7)
 
 ## Installation
 
 Before getting started, ensure that you have Node.js and npm (Node Package Manager) installed on your machine.
 
 1. Clone this repository to your local machine using:
+
 ```
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/durvesh7k/todo_app.git
 ```
 
 2. Navigate to the project directory:
